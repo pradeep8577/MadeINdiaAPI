@@ -1,0 +1,43 @@
+[
+    {
+        "id":1,
+        "title":"The Shawshank Redemption",
+        "year":"1994",
+        "runtime":"142 min",
+        "genre":"Drama",
+        "director":"Frank Darabont"
+    },
+    {
+        "id":2,
+        "title":"The Godfather",
+        "year":"1972",
+        "runtime":"175 min",
+        "genre":"Drama",
+        "director":"Francis Ford Coppola"
+    },
+    {
+        "id":3,
+        "title":"The Godfather: Part II",
+        "year":"1974",
+        "runtime":"200 min",
+        "genre":"Drama",
+        "director":"Francis Ford Coppola"
+    },
+    {
+        "id":4,
+        "title":"The Dark Knight",
+        "year":"2008",
+        "runtime":"152 min",
+        "genre":"Action",
+        "director":"Christopher Nolan"
+    },
+    {
+        "id":5,
+        "title":"12 Angry Monkeys",
+        "year":"1999",
+        "runtime":"96 min",
+        "genre":"Comedy",
+        "director":"Terry Gilliam"
+    }
+    
+]
