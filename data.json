@@ -38,6 +38,13 @@
         "runtime":"96 min",
         "genre":"Comedy",
         "director":"Terry Gilliam"
+    },
+    {
+        "id":6,
+        "title":"12 Angry Monkeys",
+        "year":"1999",
+        "runtime":"96 min",
+        "genre":"Comedy",
+        "director":"Terry Gilliam"
     }
-    
 ]
